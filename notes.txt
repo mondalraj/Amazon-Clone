@@ -1,0 +1,11 @@
+=> Technologies used
+
+Firebase
+React
+Next.js
+Redux
+Tailwind CSS
+Web Hooks
+NextAuth.js
+Fake Store API
+Stripe
